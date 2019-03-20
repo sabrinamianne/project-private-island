@@ -1,15 +1,21 @@
+
 h1 {
   color: black;
+  text-align: center;
 }
 
 h2 {
   font-style: normal;
   color: blue;
+  text-align: center;
 }
 
 p {
-  color: crimson;
+  color: black;
+  text-align: center
 }
+
+
 
 body {
   background-color: lightblue;
