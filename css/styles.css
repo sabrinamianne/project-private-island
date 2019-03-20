@@ -8,14 +8,11 @@ h2 {
 }
 
 p {
-  color: crimson;
+  color: black;
   text-align: center
 }
 
-li {
-  color: crimson;
-  text-align: left
-}
+
 
 body {
   background-color: lightblue;
