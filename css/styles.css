@@ -12,15 +12,10 @@ p {
   text-align: center
 }
 
-ul {
+li {
   color: crimson;
   text-align: left
 }
-
-img {
-  text-align: center
-}
-
 
 body {
   background-color: lightblue;
